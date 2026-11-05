@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🇧🇷 Moro em Marília, São Paulo, Brasil
+- 🇧🇷 Moro em Vera Cruz, São Paulo, Brasil
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIMAR
 - 💻 Estagiário de TI na Prefeitura de Marília, apoiando o laboratório de informática de uma escola municipal
 - 🤝 Experiência em atendimento ao público e atividades administrativas (Juizado Especial Cível e Criminal)
