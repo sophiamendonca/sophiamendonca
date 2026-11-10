@@ -62,8 +62,9 @@
 
 ## 📂 Projetos em Destaque
 
-- Triagem de Chamados com IA (https://github.com/sophiamendonca/triagem-chamados-ia): Triagem de chamados de suporte de TI com IA (Gemini): classifica categoria, prioridade e sugere resposta.
-- Conecta (https://github.com/sophiamendonca/conecta): Sistema de Comunicação e Informação Universitária, desenvolvido com o objetivo de centralizar e facilitar a comunicação e o acesso às informações no ambiente universitário.
+- Triagem de Chamados com IA (https://github.com/sophiamendonca/Triagem-de-Chamados-com-IA-v2): Triagem de chamados de suporte de TI com IA (Gemini): classifica categoria e prioridade, guarda histórico em SQLite e mede a precisão da classificação (97% em 30 exemplos).
+
+- Conecta (https://github.com/sophiamendonca/planejador-conteudo-n8n): Fluxo n8n que gera um planejamento semanal de posts para Instagram com Gemini e guarda em tabela (formulário, IA, Code, Split Out e Data table).
 
 ---
 
